@@ -1,1 +1,2 @@
 I am learning git and git hub from Pratap.
+trying to push new updates to sub branch.
